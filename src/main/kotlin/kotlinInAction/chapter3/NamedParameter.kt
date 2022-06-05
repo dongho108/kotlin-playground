@@ -1,4 +1,4 @@
-package kotlinInAction
+package kotlinInAction.chapter3
 
 import java.lang.StringBuilder
 
