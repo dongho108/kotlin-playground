@@ -28,6 +28,3 @@ fun <T> joinToString(
     result.append(postfix)
     return result.toString()
 }
-
-class NamedParameter {
-}
